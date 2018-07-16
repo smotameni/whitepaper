@@ -1,4 +1,4 @@
-InsurChain whitepaper Spanish version is translated by InsurChain community member  Dany. We provide no guarantees on the accuracy of this translation. If you have any feedbacks and suggestions, please send emails to customer@insurchain.org.
+InsurChain whitepaper Spanish version is translated by InsurChain community member  Dany. We provide no guarantees on the accuracy of this translation. If you have any feedbacks and suggestions, please send emails to customer@insurchain.org. Thanks.
 
 ## InsurChain: Ecosistema de seguros, descentralizado y basado en la Blockchain
 
